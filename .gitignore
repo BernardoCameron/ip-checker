@@ -1,0 +1,16 @@
+.env
+ 
+*.xlsx
+*.json
+*.html
+ip_report*
+ 
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+ 
+.DS_Store
+Thumbs.db
